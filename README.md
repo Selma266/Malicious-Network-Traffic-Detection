@@ -1,5 +1,6 @@
 # Malicious Network Traffic Detection
 ### 📌 Project Overview
+---
 Network Intrusion Detection Systems (NIDS) based on machine learning have demonstrated strong performance in detecting malicious network traffic. However, these models are vulnerable to adversarial attacks, which can manipulate input features to evade detection.
 ---
 This project aims to:
