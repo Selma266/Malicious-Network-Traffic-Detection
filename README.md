@@ -1,9 +1,12 @@
 # Malicious Network Traffic Detection
 ### 📌 Project Overview
----
+
 Network Intrusion Detection Systems (NIDS) based on machine learning have demonstrated strong performance in detecting malicious network traffic. However, these models are vulnerable to adversarial attacks, which can manipulate input features to evade detection.
+
+
 ---
-This project aims to:
+
+### 🎯 Objective
 
 1-Compare several machine learning models for malicious traffic detection
 
@@ -17,7 +20,11 @@ This project aims to:
 Machine Learning Models: Logistic Regression, Random Forest, XGBoost, LightGBM.
 
 Deep Learning Model: Multilayer Perceptron (MLP).
+
+
 ⭐⭐⭐ The best-performing model is selected and further enhanced using adversarial training.
 ### 📌Adversarial Training
+
 To improve model robustness, adversarial examples generated with FGSM are incorporated during training.
+
 ### 📂 Dataset  
